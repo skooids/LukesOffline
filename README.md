@@ -1,4 +1,4 @@
-### Hi there 👋
+### Well hello there good sir 👋
 
 <!--
 **LukesOffline/LukesOffline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +8,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Here's a lil bit about me:
+
+- 🌱 I’m currently learning Python and TypeScript.
+- 📫 How to reach me: @lukesoffline on Twitter
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Microsoft attempted to buy Nintendo when it was making the Xbox, but the Japanese company “laughed their asses off”.
