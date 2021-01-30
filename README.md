@@ -14,3 +14,5 @@ Here's a lil bit about me:
 - 📫 How to reach me: @lukesoffline on Twitter
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Microsoft attempted to buy Nintendo when it was making the Xbox, but the Japanese company “laughed their asses off”.
+
+[![Lukes's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukesOffline)](https://github.com/anuraghazra/github-readme-stats)
